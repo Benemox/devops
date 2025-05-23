@@ -1,27 +1,27 @@
 # DevOps Toolbox ⚙️
 
-Este repositorio contiene una colección de herramientas, scripts y configuraciones pensadas para automatizar tareas comunes de desarrollo, despliegue y mantenimiento de proyectos. Forma parte de mi estudio y práctica en entornos DevOps y CI/CD.
+This repository contains a collection of tools, scripts, and configurations aimed at automating common tasks in development, deployment, and project maintenance. It is part of my learning and practice in DevOps environments and CI/CD pipelines.
 
-## 🎯 Objetivo
+## 🎯 Objective
 
-Documentar y centralizar procesos DevOps utilizados en entornos reales, enfocados a:
+To document and centralize DevOps processes used in real-world environments, focused on:
 
-- Automatización de entornos locales y de producción
-- Uso de contenedores (Docker)
-- Scripts de despliegue
-- Configuraciones CI/CD
-- Buenas prácticas de infraestructura como código
+- Automating local and production environments
+- Working with containers (Docker)
+- Deployment scripting
+- CI/CD configuration
+- Infrastructure as Code best practices
 
-## 📦 Contenido del repositorio
+## 📦 Repository Structure
 
 devops/
-├── docker/ # Archivos de configuración de contenedores
-│ └── nginx/ # Configuración de NGINX
-├── scripts/ # Scripts de utilidad (bash, node, etc.)
-├── ci-cd/ # Archivos para pipelines (ej: GitHub Actions, GitLab CI)
-├── ansible/ # Playbooks y roles (si aplica)
-├── k8s/ # Configuraciones de Kubernetes (si aplica)
-└── README.md # Documentación del proyecto
+├── docker/ # Container configuration files
+│ └── nginx/ # NGINX configuration
+├── scripts/ # Utility scripts (bash, node, etc.)
+├── ci-cd/ # Pipeline files (e.g., GitHub Actions, GitLab CI)
+├── ansible/ # Playbooks and roles (if applicable)
+├── k8s/ # Kubernetes configurations (if applicable)
+└── README.md # Project documentation
 
 ## 🚀 Tecnologías y herramientas involucradas
 
