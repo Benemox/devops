@@ -23,27 +23,27 @@ devops/
 ├── k8s/ # Kubernetes configurations (if applicable)
 └── README.md # Project documentation
 
-## 🚀 Tecnologías y herramientas involucradas
+## 🚀 Tools and Technologies Involved
 
 - **Docker / Docker Compose**
 - **NGINX**
 - **Bash / Shell scripting**
 - **GitHub Actions / GitLab CI**
-- **Ansible** (si aplica)
-- **Kubernetes** (si se incluye)
-- **Makefiles** para orquestación de tareas
+- **Ansible** (if used)
+- **Kubernetes** (if included)
+- **Makefiles** for task orchestration
 
-## 🛠 Casos de uso
+## 🛠 Use Cases
 
-- Inicializar proyectos locales de forma uniforme.
-- Automatizar la construcción de imágenes Docker.
-- Desplegar en servidores o contenedores remotos.
-- Crear pipelines reutilizables y escalables.
-- Documentar el ciclo de vida completo del software (Build -> Test -> Deploy).
+- Standardizing local development environments
+- Automating Docker image builds
+- Deploying to remote servers or containers
+- Creating reusable and scalable CI/CD pipelines
+- Documenting the full software lifecycle (Build → Test → Deploy)
 
-## 💡 Cómo usar
+## 💡 How to Use
 
-1. Clona este repositorio:
+1. Clone this repository:
 
 ```bash
 git clone https://github.com/Benemox/devops.git
